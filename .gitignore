@@ -30,6 +30,7 @@ Thumbs.db
 *.log
 bin/
 data/
+img/
 # Develop tools
 .vscode/
 .idea/
