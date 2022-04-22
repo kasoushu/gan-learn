@@ -35,4 +35,5 @@ imgs/
 # Develop tools
 .vscode/
 .idea/
+.ipynb_checkpoints/
 *.swp
